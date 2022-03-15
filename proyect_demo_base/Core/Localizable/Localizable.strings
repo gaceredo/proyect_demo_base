@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  proyect_demo_base
+
+  Created by Luis Aceredo on 13/3/22.
+  
+*/
+
+"Splash.title" = "Splash";
+"Login.title" = "Login";
+"Home.title" = "Home";
